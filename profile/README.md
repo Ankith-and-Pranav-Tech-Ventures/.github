@@ -15,7 +15,7 @@ Welcome to Ankith and Pranav Tech Ventures
 Our mission is to leverage our skills and passion for technology. We aim to solve real-world problems through innovative engineering and collaborative efforts.
 
 ## Projects
-Our First Projet Will Me Made Public in Few More Days
+Our First Project Will Me Made Public in Few More Days
 
 
 ## Contact Us
